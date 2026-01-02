@@ -19,12 +19,12 @@ dig @M_IP RRECORD_NEEDED_{A,AAA,MX,CNAME,TXT,NS} Domain_name
 * NS : Delegates DNS management to other name servers
 
 ## listen Listening ports on the machine
-
+Linux
 ```
 ss -tunlp
 ```
-on older systems
+Windows
 ```
-netstat
+netstat -ano
 ```
 * with root permession you can view the process column

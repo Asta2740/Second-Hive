@@ -1,0 +1,28 @@
+So this is sort of a new one but i am just putting my thoughts in words
+
+so now i was able to get the password from the fakebook OSINT enumration , but now 
+i'm stuck at the second code i couldn't find anything related
+i tried to check for the whole thing but couldn't find any 
+
+i notcied that the third code will be related to the port 9001 but we will 
+leave it for now , a though came to check the cameras
+but when i do check them the server still returns the guard 
+so i need something that will make me return the admin
+
+i will look at the html for 8080 right now to see if there is anything that's worth seeing here or notcieda\
+
+ah ya note we could just escape the whole login and getting the first flag by just unhiding the map
+since it uses html to hide it with some session check to maintain it but anyways lets do one more check
+
+so nothing new found and no hints regarding the code
+my guess its in the video facility but my problem is i can log in with the guardb
+but i am having trouble with the admin as when i go there it still gives me guard details not admin 
+
+mmmm maybe there is a clue somewhere let me go check that video portal once again at port 13400
+
+
+so the video has a osychward exit probably it contains the code but it kinda gives a fake video since the role is server based
+
+soooo how can i move from here 
+
+the thing is that i just noticed the site is different lets try to see what do we have here
