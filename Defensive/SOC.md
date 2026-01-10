@@ -92,7 +92,27 @@ where
 what
 why
 
+### example 
+```
+Time of Activity: 
 
+List of Related Entities: 
+
+Reason for Classifying as False Positive: 
+```
+```
+Time of activity: 
+
+List of Affected Entities:
+
+Reason for Classifying as True Positive:  
+
+Reason for Escalating the Alert: 
+
+Recommended Remediation Actions: 
+
+List of Attack Indicators: 
+```
 now examples on communication
 
 Communication Cases
